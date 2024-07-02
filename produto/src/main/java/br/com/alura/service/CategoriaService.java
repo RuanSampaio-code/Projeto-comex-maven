@@ -1,4 +1,4 @@
-package br.alura.comex.services;
+package br.com.alura.service;
 
 import br.alura.comex.dao.CategoriaDao;
 import br.alura.comex.models.Categoria;

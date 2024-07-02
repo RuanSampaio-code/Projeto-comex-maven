@@ -1,4 +1,4 @@
-package br.alura.comex.dao;
+package br.com.alura.dao;
 
 import br.alura.comex.interfaces.IntPedidoDao;
 import br.alura.comex.models.Cliente;

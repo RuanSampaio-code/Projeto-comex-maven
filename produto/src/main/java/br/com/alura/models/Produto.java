@@ -1,4 +1,4 @@
-package br.alura.comex.models;
+package br.com.alura.models;
 
 import javax.persistence.*;
 import java.util.ArrayList;

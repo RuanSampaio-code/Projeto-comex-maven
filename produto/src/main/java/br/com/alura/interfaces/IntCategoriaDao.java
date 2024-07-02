@@ -1,4 +1,4 @@
-package br.alura.comex.interfaces;
+package br.com.alura.interfaces;
 
 import br.alura.comex.models.Categoria;
 

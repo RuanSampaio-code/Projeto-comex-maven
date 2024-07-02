@@ -1,4 +1,4 @@
-package br.alura.comex.dao;
+package br.com.alura.dao;
 
 import br.alura.comex.interfaces.IntProdutoDao;
 import br.alura.comex.models.Produto;

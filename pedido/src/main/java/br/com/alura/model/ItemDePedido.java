@@ -1,4 +1,4 @@
-package br.alura.comex.models;
+package br.com.alura.model;
 
 
 import com.sun.xml.bind.v2.runtime.Name;

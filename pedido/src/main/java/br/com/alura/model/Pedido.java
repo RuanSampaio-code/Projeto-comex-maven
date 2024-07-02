@@ -1,4 +1,4 @@
-package br.alura.comex.models;
+package br.com.alura.model;
 
 import javax.persistence.*;
 import java.math.BigDecimal;

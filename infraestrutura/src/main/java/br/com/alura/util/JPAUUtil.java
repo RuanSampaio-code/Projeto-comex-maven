@@ -1,4 +1,4 @@
-package br.alura.comex.util;
+package br.com.alura.util;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
