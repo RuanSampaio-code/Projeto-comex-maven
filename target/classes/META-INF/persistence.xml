@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.2"
+             xmlns="http://xmlns.jcp.org/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd">
+
+    <persistence-unit name="comex" transaction-type="RESOURCE_LOCAL">
+        <!-- Usando transação local, transaction-type="RESOURCE_LOCAL" -->
+        <!-- Propriedades do banco de dados -->
+        <properties>
+            <!-- Propriedades obrigatórias para configuração do JDBC -->
+            <property name="javax.persistence.jdbc.Driver" value="com.mysql.cj.jdbc.Driver"/>
+            <!-- URL de conexão com o banco de dados -->
+            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost/comex"/>
+            <!-- Usuário do banco de dados -->
+            <property name="javax.persistence.jdbc.user" value="root"/>
+            <!-- Senha do banco de dados -->
+            <property name="javax.persistence.jdbc.password" value="Mateus@2022"/>
+
+            <!-- Dialeto do Hibernate para o MySQL 8 -->
+            <property name="hibernate.dialect" value="org.hibernate.dialect.MySQL8Dialect"/>
+            <!-- Mostrar SQL gerado pelo Hibernate no console -->
+            <property name="hibernate.show_sql" value="true"/>
+
+            <property name="hibernate.format_sql" value="true"/>
+            <!-- Configuração do Hibernate para gerenciar o esquema do banco de dados -->
+            <property name="hibernate.hbm2ddl.auto" value="update"/>
+        </properties>
+    </persistence-unit>
+</persistence>
