@@ -1,4 +1,4 @@
-package br.alura.comex.tests;
+package comex.tests;
 
 
 import br.alura.comex.exception.EntidadeNaoEncontradaException;
@@ -7,7 +7,6 @@ import br.alura.comex.services.ClienteService;
 import br.alura.comex.util.JPAUUtil;
 
 import javax.persistence.EntityManager;
-import javax.persistence.EntityManagerFactory;
 import java.util.Scanner;
 
 public class TesteCliente {

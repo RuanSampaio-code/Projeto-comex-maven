@@ -1,4 +1,4 @@
-package br.alura.comex.tests;
+package comex.tests;
 
 import br.alura.comex.models.*;
 import br.alura.comex.services.ClienteService;

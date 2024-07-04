@@ -1,11 +1,11 @@
 package br.com.alura.dao;
 
-import br.alura.comex.interfaces.IntCategoriaDao;
-import br.alura.comex.models.Categoria;
+
+import br.com.alura.interfaces.IntCategoriaDao;
+import br.com.alura.models.Categoria;
 
 import javax.persistence.EntityManager;
 import javax.persistence.NoResultException;
-import javax.swing.text.html.parser.Entity;
 import java.util.List;
 
 public class CategoriaDao implements IntCategoriaDao {

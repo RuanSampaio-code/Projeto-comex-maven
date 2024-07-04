@@ -1,6 +1,7 @@
 package br.com.alura.interfaces;
 
-import br.alura.comex.models.Categoria;
+
+import br.com.alura.models.Categoria;
 
 import java.util.List;
 
@@ -13,6 +14,8 @@ public interface IntCategoriaDao {
     Categoria buscarID(Long id);
 
     void alterar(Long id, Categoria categoriaAlterar);
+
+   // void alterar(Long id, Categoria categoriaAlterar);
 
     void remover(Long id);
 

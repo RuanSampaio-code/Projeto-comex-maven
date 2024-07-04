@@ -6,23 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="370470d4-6e41-40f4-8d7a-33d5ebf730f0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/alura/comex/dao/CategoriaDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/produto/src/main/java/br/com/alura/dao/CategoriaDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/alura/comex/dao/PedidoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/pedido/src/main/java/br/com/alura/dao/PedidoDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/alura/comex/dao/ProdutoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/produto/src/main/java/br/com/alura/dao/ProdutoDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/alura/comex/interfaces/IntCategoriaDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/produto/src/main/java/br/com/alura/interfaces/IntCategoriaDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/alura/comex/interfaces/IntClienteDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/cliente/src/main/java/br/com/alura/interfaces/IntClienteDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/alura/comex/interfaces/IntPedidoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/pedido/src/main/java/br/com/alura/interfaces/IntPedidoDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/alura/comex/interfaces/IntProdutoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/produto/src/main/java/br/com/alura/interfaces/IntProdutoDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/alura/comex/models/Categoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/produto/src/main/java/br/com/alura/models/Categoria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/alura/comex/models/ItemDePedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/pedido/src/main/java/br/com/alura/model/ItemDePedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/alura/comex/models/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/pedido/src/main/java/br/com/alura/model/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/alura/comex/models/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/produto/src/main/java/br/com/alura/models/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/alura/comex/models/TipoDeDescontoEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/pedido/src/main/java/br/com/alura/model/TipoDeDescontoEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/alura/comex/models/TipoDescontoProdutoEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/produto/src/main/java/br/com/alura/models/TipoDescontoProdutoEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/alura/comex/services/CategoriaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/produto/src/main/java/br/com/alura/service/CategoriaService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/alura/comex/services/PedidoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pedido/src/main/java/br/com/alura/service/PedidoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/alura/comex/services/ProdutoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/produto/src/main/java/br/com/alura/service/ProdutoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/alura/comex/util/JPAUUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/infraestrutura/src/main/java/br/com/alura/util/JPAUUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,23 +26,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.TesteCategoria.executor": "Run",
-    "Application.TestePedido.executor": "Run",
-    "Application.TesteProduto.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "21",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/JT57308/Documents/GitHub/Projeto-boost/projeto04/Projeto-comex-maven/pom.xml",
-    "onboarding.tips.debug.path": "C:/Users/JT57308/Documents/GitHub/Projeto-boost/projeto04/Projeto-comex-maven/pedido/src/main/java/br/com/alura/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.TesteCategoria.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestePedido.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteProduto.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/JT57308/Documents/GitHub/Projeto-boost/projeto04/Projeto-comex-maven/pom.xml&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/JT57308/Documents/GitHub/Projeto-boost/projeto04/Projeto-comex-maven/pedido/src/main/java/br/com/alura/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\JT57308\Documents\GitHub\Projeto-boost\projeto04\Projeto-comex-maven\pedido\src\main\java\br\com\alura\model" />

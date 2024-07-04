@@ -1,7 +1,7 @@
 package br.com.alura.dao;
 
-import br.alura.comex.interfaces.IntProdutoDao;
-import br.alura.comex.models.Produto;
+import br.com.alura.interfaces.IntProdutoDao;
+import br.com.alura.models.Produto;
 
 import javax.persistence.EntityManager;
 import java.util.List;
@@ -30,7 +30,6 @@ public class ProdutoDao implements IntProdutoDao {
 
     }
 
-    @Override
     public List<Produto> listarTodas() {
         // Define a consulta JPQL para selecionar todas as categorias
         String jpql = "SELECT p FROM Produto p";

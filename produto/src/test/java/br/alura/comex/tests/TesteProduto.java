@@ -1,10 +1,12 @@
 package br.alura.comex.tests;
 
-import br.alura.comex.models.Categoria;
-import br.alura.comex.models.Produto;
-import br.alura.comex.services.CategoriaService;
-import br.alura.comex.services.ProdutoService;
-import br.alura.comex.util.JPAUUtil;
+
+
+import br.com.alura.models.Categoria;
+import br.com.alura.models.Produto;
+import br.com.alura.service.CategoriaService;
+import br.com.alura.service.ProdutoService;
+import br.com.alura.util.JPAUUtil;
 
 import javax.persistence.EntityManager;
 import java.util.ArrayList;

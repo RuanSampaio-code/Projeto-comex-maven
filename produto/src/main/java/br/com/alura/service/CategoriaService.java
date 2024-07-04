@@ -1,7 +1,7 @@
 package br.com.alura.service;
 
-import br.alura.comex.dao.CategoriaDao;
-import br.alura.comex.models.Categoria;
+import br.com.alura.dao.CategoriaDao;
+import br.com.alura.models.Categoria;
 
 import javax.persistence.EntityManager;
 import java.util.List;
