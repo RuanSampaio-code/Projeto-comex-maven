@@ -1,5 +1,0 @@
-br\com\alura\interfaces\IntClienteDao.class
-br\com\alura\Main.class
-br\com\alura\models\Cliente.class
-br\com\alura\dao\ClienteDao.class
-br\com\alura\service\ClienteService.class
