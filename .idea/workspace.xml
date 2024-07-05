@@ -5,7 +5,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="370470d4-6e41-40f4-8d7a-33d5ebf730f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cliente/src/test/java/comex/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cliente/src/test/java/comex/exception/EntidadeNaoEncontradaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pedido/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/produto/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cliente/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cliente/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cliente/src/main/java/br/com/alura/dao/ClienteDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/cliente/src/main/java/br/com/alura/dao/ClienteDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cliente/src/main/java/br/com/alura/interfaces/IntClienteDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/cliente/src/main/java/br/com/alura/interfaces/IntClienteDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cliente/src/main/java/br/com/alura/service/ClienteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cliente/src/main/java/br/com/alura/service/ClienteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infraestrutura/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/infraestrutura/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pedido/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pedido/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pedido/src/main/java/br/com/alura/dao/PedidoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/pedido/src/main/java/br/com/alura/dao/PedidoDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pedido/src/main/java/br/com/alura/interfaces/IntPedidoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/pedido/src/main/java/br/com/alura/interfaces/IntPedidoDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pedido/src/main/java/br/com/alura/model/ItemDePedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/pedido/src/main/java/br/com/alura/model/ItemDePedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pedido/src/main/java/br/com/alura/model/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/pedido/src/main/java/br/com/alura/model/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pedido/src/main/java/br/com/alura/service/PedidoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pedido/src/main/java/br/com/alura/service/PedidoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pedido/src/test/java/comex/tests/TesteCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/cliente/src/test/java/comex/tests/TesteCliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pedido/src/test/java/comex/tests/TestePedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/pedido/src/test/java/comex/tests/TestePedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/produto/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/produto/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/produto/src/main/java/br/com/alura/interfaces/IntProdutoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/produto/src/main/java/br/com/alura/interfaces/IntProdutoDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cliente/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/dao/CategoriaDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/dao/ClienteDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/dao/PedidoDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/dao/ProdutoDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/exception/EntidadeNaoEncontradaException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/interfaces/IntCategoriaDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/interfaces/IntClienteDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/interfaces/IntPedidoDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/interfaces/IntProdutoDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/models/Categoria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/models/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/models/ItemDePedido.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/models/Pedido.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/models/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/models/TipoDeDescontoEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/models/TipoDescontoProdutoEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/services/CategoriaService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/services/ClienteService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/services/PedidoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/services/ProdutoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/tests/TesteCategoria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/tests/TesteCliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/tests/TestePedido.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/tests/TesteProduto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/alura/comex/util/JPAUUtil.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,30 +75,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.TesteCategoria.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestePedido.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TesteProduto.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/JT57308/Documents/GitHub/Projeto-boost/projeto04/Projeto-comex-maven/pom.xml&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/JT57308/Documents/GitHub/Projeto-boost/projeto04/Projeto-comex-maven/pedido/src/main/java/br/com/alura/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.TesteCategoria.executor": "Run",
+    "Application.TestePedido.executor": "Run",
+    "Application.TesteProduto.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ruans/Documents/GitHub/Boost-alura/proj-comex-maven/Projeto-comex-maven/cliente/src/main",
+    "onboarding.tips.debug.path": "C:/Users/JT57308/Documents/GitHub/Projeto-boost/projeto04/Projeto-comex-maven/pedido/src/main/java/br/com/alura/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ruans\Documents\GitHub\Boost-alura\proj-comex-maven\Projeto-comex-maven\cliente\src\main" />
+      <recent name="C:\Users\ruans\Documents\GitHub\Boost-alura\proj-comex-maven\Projeto-comex-maven\cliente\src\main\java" />
+      <recent name="C:\Users\ruans\Documents\GitHub\Boost-alura\proj-comex-maven\Projeto-comex-maven\pedido\src\main" />
+      <recent name="C:\Users\ruans\Documents\GitHub\Boost-alura\proj-comex-maven\Projeto-comex-maven\produto\src\main" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ruans\Documents\GitHub\Boost-alura\proj-comex-maven\Projeto-comex-maven\target\classes\br\com" />
+      <recent name="C:\Users\ruans\Documents\GitHub\Boost-alura\proj-comex-maven\Projeto-comex-maven\cliente\src\main\resources" />
+      <recent name="C:\Users\ruans\Documents\GitHub\Boost-alura\proj-comex-maven\Projeto-comex-maven\cliente\src\main\java\resources" />
+      <recent name="C:\Users\ruans\Documents\GitHub\Boost-alura\proj-comex-maven\Projeto-comex-maven\cliente\src" />
       <recent name="C:\Users\JT57308\Documents\GitHub\Projeto-boost\projeto04\Projeto-comex-maven\pedido\src\main\java\br\com\alura\model" />
-      <recent name="C:\Users\JT57308\Documents\GitHub\Projeto-boost\projeto04\Projeto-comex-maven\pedido\src\main\java\br\com\alura\interfaces" />
-      <recent name="C:\Users\JT57308\Documents\GitHub\Projeto-boost\projeto04\Projeto-comex-maven\produto\src\main\java\br\com\alura\interfaces" />
-      <recent name="C:\Users\JT57308\Documents\GitHub\Projeto-boost\projeto04\Projeto-comex-maven\cliente\src\main\java\br\com\alura\interfaces" />
-      <recent name="C:\Users\JT57308\Documents\GitHub\Projeto-boost\projeto04\Projeto-comex-maven\produto\src\main\java\br\com\alura\dao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.alura.comex.tests" />
     </key>
   </component>
   <component name="RunManager">

@@ -1,5 +1,7 @@
 package br.com.alura.model;
 
+import br.com.alura.models.Cliente;
+
 import javax.persistence.*;
 import java.math.BigDecimal;
 import java.time.LocalDate;

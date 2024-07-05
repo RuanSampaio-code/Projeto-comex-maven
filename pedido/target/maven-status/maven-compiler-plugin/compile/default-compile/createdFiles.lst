@@ -1,0 +1,7 @@
+br\com\alura\Main.class
+br\com\alura\model\Pedido.class
+br\com\alura\model\TipoDeDescontoEnum.class
+br\com\alura\dao\PedidoDao.class
+br\com\alura\service\PedidoService.class
+br\com\alura\interfaces\IntPedidoDao.class
+br\com\alura\model\ItemDePedido.class

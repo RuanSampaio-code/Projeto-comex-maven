@@ -1,10 +1,14 @@
 package comex.tests;
 
-import br.alura.comex.models.*;
-import br.alura.comex.services.ClienteService;
-import br.alura.comex.services.PedidoService;
-import br.alura.comex.services.ProdutoService;
-import br.alura.comex.util.JPAUUtil;
+
+import br.com.alura.model.ItemDePedido;
+import br.com.alura.model.Pedido;
+import br.com.alura.models.Cliente;
+import br.com.alura.models.Produto;
+import br.com.alura.service.ClienteService;
+import br.com.alura.service.PedidoService;
+import br.com.alura.service.ProdutoService;
+import br.com.alura.util.JPAUUtil;
 
 import javax.persistence.EntityManager;
 import java.math.BigDecimal;

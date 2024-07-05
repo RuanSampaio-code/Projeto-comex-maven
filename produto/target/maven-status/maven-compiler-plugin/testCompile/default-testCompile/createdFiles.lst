@@ -1,0 +1,4 @@
+br\alura\comex\Main.class
+br\alura\comex\exception\EntidadeNaoEncontradaException.class
+br\alura\comex\tests\TesteProduto.class
+br\alura\comex\tests\TesteCategoria.class

@@ -1,8 +1,8 @@
 package br.com.alura.service;
 
-import br.alura.comex.dao.PedidoDao;
-import br.alura.comex.models.Pedido;
-import br.alura.comex.models.Produto;
+
+import br.com.alura.dao.PedidoDao;
+import br.com.alura.model.Pedido;
 
 import javax.persistence.EntityManager;
 import java.util.List;

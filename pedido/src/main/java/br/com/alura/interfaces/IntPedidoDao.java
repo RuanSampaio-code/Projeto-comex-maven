@@ -1,7 +1,7 @@
 package br.com.alura.interfaces;
 
-import br.alura.comex.models.Categoria;
-import br.alura.comex.models.Pedido;
+
+import br.com.alura.model.Pedido;
 
 import java.util.List;
 

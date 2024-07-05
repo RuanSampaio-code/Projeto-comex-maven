@@ -1,6 +1,8 @@
 package br.com.alura.model;
 
 
+import br.com.alura.models.Produto;
+import br.com.alura.models.TipoDescontoProdutoEnum;
 import com.sun.xml.bind.v2.runtime.Name;
 
 import javax.persistence.*;

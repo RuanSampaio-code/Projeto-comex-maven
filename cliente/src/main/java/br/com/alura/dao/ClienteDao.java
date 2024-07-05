@@ -1,9 +1,7 @@
 package br.com.alura.dao;
 
-import br.alura.comex.interfaces.IntClienteDao;
-import br.alura.comex.models.Categoria;
-import br.alura.comex.models.Cliente;
-import br.alura.comex.models.Pedido;
+import br.com.alura.interfaces.IntClienteDao;
+import br.com.alura.models.Cliente;
 
 import javax.persistence.EntityManager;
 import java.util.List;
@@ -44,7 +42,6 @@ public class ClienteDao implements IntClienteDao {
         //return null;
     }
 
-    @Override
     public Cliente buscarID(Long id) {
         var clienteEncontrada = manager.find(Cliente.class, id);
 
