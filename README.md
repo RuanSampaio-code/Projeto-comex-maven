@@ -1,2 +1,2 @@
 # Projeto-comex-maven
-Projeto seman 04 - Boost Alura
+Projeto 04 - Boost Alura, Maven gerenciando dependências
